@@ -1,6 +1,6 @@
 # AWS SAA — IAM (Aula)
 
-Material de estudo focado na certificação **AWS Certified Solutions Architect – Associate (SAA)** sobre **IAM (Identity and Access Management)**, incluindo teoria, pegadinhas comuns de prova, mini-lab e simulado com gabarito.
+Material de estudo focado na certificação **AWS Certified Solutions Architect – Associate (SAA)** sobre **IAM (Identity and Access Management)**
 
 ---
 
