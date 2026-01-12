@@ -167,4 +167,18 @@ D. Conceder permissões amplas e confiar no “bom uso”
 19) **B** — Gerencie pessoas por Groups e policies gerenciadas.  
 20) **B** — Menor privilégio: mínimo necessário + conditions quando útil.
 
+## Real World Question
+
+A company is implementing a new business application. The application runs on two Amazon EC2 instances and uses an Amazon S3 bucket for document storage. A solutions architect needs to ensure that the EC2 instances can access the S3 bucket.
+
+What should the solutions architect do to meet this requirement?
+
+**A**. Create an IAM role that grants access to the S3 bucket. Attach the role to the EC2 instances.
+
+**B**. Create an IAM policy that grants access to the S3 bucket. Attach the policy to the EC2 instances.
+
+**C**. Create an IAM group that grants access to the S3 bucket. Attach the group to the EC2 instances.
+
+**D**. Create an IAM user that grants access to the S3 bucket. Attach the user account to the EC2 instances.
+
 ---

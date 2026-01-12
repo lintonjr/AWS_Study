@@ -3,6 +3,15 @@
 Material de estudo focado na certificação **AWS Certified Solutions Architect – Associate (SAA)** sobre **IAM (Identity and Access Management)**
 
 ---
+## Important Domains of AWS Certified Solutions Architect Exam
+
+| Domains | % of Exam |
+|---|---:|
+| Domain 1: Design Resilient Architectures | 30% |
+| Domain 2: Design High-Performing Architectures | 28% |
+| Domain 3: Design Secure Applications and Architectures | 24% |
+| Domain 4: Design Cost-Optimized Architectures | 18% |
+| **Total** | **100%** |
 
 ## Sumário
 - [Objetivos](#objetivos)
@@ -224,7 +233,7 @@ Simula se uma ação seria permitida/negada para um user/role.
 
 ---
 
-## 9) Mini-lab (30–40 min)
+## 9) Mini-lab
 
 ### Parte A: identidade atual
 ```bash
