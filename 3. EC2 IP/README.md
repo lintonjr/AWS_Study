@@ -183,7 +183,7 @@ Controlam **como instâncias EC2 são posicionadas fisicamente**.
 - ✅ Private IP é padrão arquitetural
 - ❌ Spread não escala
 - ✅ Partition escala
-- ❌ ENI não é global
+- ✅ ENI não é global
 - ✅ Hibernate preserva RAM
 
 ---

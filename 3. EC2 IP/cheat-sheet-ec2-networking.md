@@ -165,7 +165,7 @@ Controlam **onde as instâncias EC2 ficam fisicamente**.
 - ❌ Elastic IP ≠ Alta disponibilidade  
 - ❌ Public IP é confiável a longo prazo  
 - ❌ Spread Group não escala  
-- ❌ ENI não é global  
+- ✅ ENI não é global  
 - ✅ Load Balancer > Elastic IP  
 - ✅ Private IP é padrão  
 - ✅ Partition escala  
