@@ -1,4 +1,4 @@
-# 🧠 Aula Completa – Elastic Load Balancing & Auto Scaling
+# Aula Completa – Elastic Load Balancing & Auto Scaling
 ## AWS Certified Solutions Architect – Associate
 
 Esta aula aborda **Elastic Load Balancing (ELB)** e **Auto Scaling**, dois dos pilares mais importantes da certificação **AWS Certified Solutions Architect – Associate**.
