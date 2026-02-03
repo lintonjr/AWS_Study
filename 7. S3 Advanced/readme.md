@@ -198,7 +198,7 @@ Write Once, Read Many
 
 ---
 
-##S3 Object Lambda
+## S3 Object Lambda
 
 ### O que é?
 
@@ -219,7 +219,7 @@ Permite **transformar dados em tempo real** quando o objeto é acessado, sem alt
 
 ---
 
-##Como a AWS cobra esses temas na prova
+## Como a AWS cobra esses temas na prova
 
 | Cenário | Serviço |
 |------|--------|
@@ -234,7 +234,7 @@ Permite **transformar dados em tempo real** quando o objeto é acessado, sem alt
 
 ---
 
-##Conclusão
+## Conclusão
 
 Esses recursos representam o **nível avançado do S3** e costumam aparecer em:
 - Questões de arquitetura
